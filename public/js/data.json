@@ -1,0 +1,2375 @@
+﻿[
+ {
+   "user_id": 3121,
+   "created_at": "2016-07-19",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3122,
+   "created_at": "2016-07-19",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3123,
+   "created_at": "2016-07-19",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3124,
+   "created_at": "2016-07-19",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3126,
+   "created_at": "2016-07-20",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3127,
+   "created_at": "2016-07-20",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3131,
+   "created_at": "2016-07-20",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3132,
+   "created_at": "2016-07-20",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3134,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3135,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3136,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3138,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 50,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3139,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 1
+ },
+ {
+   "user_id": 3140,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3141,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3142,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3143,
+   "created_at": "2016-07-21",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3146,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3147,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3148,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 4,
+   "count_accepted_applications": 3
+ },
+ {
+   "user_id": 3149,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3150,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3151,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3152,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3154,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3155,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 45,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3156,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3158,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3160,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3161,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3162,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 100,
+   "count_applications": 4,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3163,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 100,
+   "count_applications": 2,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3165,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3166,
+   "created_at": "2016-07-22",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3167,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3169,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3173,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3175,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3176,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 35,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3177,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3178,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3179,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3180,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 100,
+   "count_applications": 8,
+   "count_accepted_applications": 2
+ },
+ {
+   "user_id": 3181,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3182,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3183,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3184,
+   "created_at": "2016-07-23",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3185,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3186,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3187,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3188,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3189,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3190,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 50,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3191,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3192,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3193,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3195,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3197,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3198,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3199,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3200,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3201,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3202,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3203,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3204,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3205,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3206,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3207,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3208,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 45,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3210,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3211,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3212,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3213,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3214,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3215,
+   "created_at": "2016-07-24",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3216,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3217,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3219,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3222,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3223,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3225,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 99,
+   "count_applications": 3,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3226,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3227,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 3,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3229,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3230,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3231,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3232,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3233,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3234,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3235,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3236,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3237,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3238,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3240,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3241,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3242,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3243,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3244,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3245,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3246,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3247,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3249,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3250,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 60,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3251,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 3,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3252,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3253,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3254,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3255,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3256,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3257,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3258,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3259,
+   "created_at": "2016-07-25",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3260,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3261,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3262,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3263,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3264,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3265,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3266,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3267,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3268,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3269,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3270,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3271,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3272,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3273,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3274,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 100,
+   "count_applications": 36,
+   "count_accepted_applications": 12
+ },
+ {
+   "user_id": 3275,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3276,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3277,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3278,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3279,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 100,
+   "count_applications": 3,
+   "count_accepted_applications": 1
+ },
+ {
+   "user_id": 3281,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3282,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3293,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3294,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3296,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3298,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3299,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3300,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3301,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 100,
+   "count_applications": 15,
+   "count_accepted_applications": 5
+ },
+ {
+   "user_id": 3302,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3303,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3304,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3305,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3306,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3307,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 45,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3308,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3309,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3310,
+   "created_at": "2016-07-26",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3311,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 50,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3312,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3313,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3314,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3315,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3316,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3317,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3318,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3319,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3320,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 100,
+   "count_applications": 3,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3321,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3322,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 60,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3323,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 100,
+   "count_applications": 4,
+   "count_accepted_applications": 2
+ },
+ {
+   "user_id": 3324,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3325,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 55,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3326,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3327,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3328,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3329,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 100,
+   "count_applications": 4,
+   "count_accepted_applications": 1
+ },
+ {
+   "user_id": 3330,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3331,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": null,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3332,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3333,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3334,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 65,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3335,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3336,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3337,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3338,
+   "created_at": "2016-07-27",
+   "onboarding_perentage": 45,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3339,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3340,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 55,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3341,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3342,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 100,
+   "count_applications": 13,
+   "count_accepted_applications": 1
+ },
+ {
+   "user_id": 3343,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3344,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3345,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3346,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3347,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3348,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3349,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3350,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 60,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3351,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3352,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3353,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3354,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3355,
+   "created_at": "2016-07-28",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3356,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 100,
+   "count_applications": 2,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3357,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 55,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3360,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3361,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3362,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3363,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3364,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3365,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3366,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3367,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3368,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3369,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 50,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3370,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3371,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3372,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3373,
+   "created_at": "2016-07-29",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3375,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3376,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3377,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 60,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3378,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3379,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 100,
+   "count_applications": 10,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3380,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3381,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3382,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3383,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3384,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3385,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3386,
+   "created_at": "2016-07-30",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3387,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 100,
+   "count_applications": 2,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3388,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3389,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3390,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3391,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3392,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3394,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3395,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3396,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 100,
+   "count_applications": 3,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3397,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3398,
+   "created_at": "2016-07-31",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3400,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3401,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3402,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3403,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3404,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3405,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 65,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3406,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3407,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3408,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3409,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3410,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3411,
+   "created_at": "2016-08-01",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3413,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3415,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3416,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 100,
+   "count_applications": 2,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3417,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3418,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3420,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3421,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3422,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3424,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 55,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3425,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3426,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3427,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3428,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3429,
+   "created_at": "2016-08-02",
+   "onboarding_perentage": 100,
+   "count_applications": 4,
+   "count_accepted_applications": 1
+ },
+ {
+   "user_id": 3430,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3431,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3432,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3433,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3434,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 50,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3435,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3438,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3439,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 65,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3440,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3441,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3442,
+   "created_at": "2016-08-03",
+   "onboarding_perentage": 100,
+   "count_applications": 2,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3443,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 35,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3444,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3449,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3450,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3451,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3452,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3454,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3455,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3456,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3457,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3458,
+   "created_at": "2016-08-04",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3459,
+   "created_at": "2016-08-05",
+   "onboarding_perentage": 100,
+   "count_applications": 1,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3460,
+   "created_at": "2016-08-05",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3464,
+   "created_at": "2016-08-06",
+   "onboarding_perentage": 65,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3465,
+   "created_at": "2016-08-06",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3466,
+   "created_at": "2016-08-06",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3467,
+   "created_at": "2016-08-06",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3468,
+   "created_at": "2016-08-06",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3469,
+   "created_at": "2016-08-06",
+   "onboarding_perentage": 65,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3470,
+   "created_at": "2016-08-07",
+   "onboarding_perentage": 55,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3471,
+   "created_at": "2016-08-07",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3472,
+   "created_at": "2016-08-07",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3473,
+   "created_at": "2016-08-07",
+   "onboarding_perentage": 65,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3474,
+   "created_at": "2016-08-07",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3475,
+   "created_at": "2016-08-07",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3478,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3479,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3480,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3481,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3482,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3483,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3484,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3485,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3486,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3487,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3489,
+   "created_at": "2016-08-08",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3490,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3491,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3492,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3494,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3495,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3496,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3497,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3498,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3499,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3501,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3502,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3503,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3504,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3505,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3506,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3507,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3508,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3509,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3510,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3512,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3513,
+   "created_at": "2016-08-09",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3514,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 100,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3515,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3517,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3518,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3519,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3520,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3521,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 95,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3523,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 40,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3524,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3525,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ },
+ {
+   "user_id": 3526,
+   "created_at": "2016-08-10",
+   "onboarding_perentage": 99,
+   "count_applications": 0,
+   "count_accepted_applications": 0
+ }
+]
