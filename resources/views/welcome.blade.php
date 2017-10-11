@@ -1,5 +1,7 @@
 @extends('layout')
-@section('content')          
+@section('content')
+<section id="main-content">
+ <section class="wrapper">            
     <div class="container">
       <div class="content">
           <div class="title m-b-md">
@@ -8,4 +10,6 @@
           <div id="container" style="width:100%; height:400px;"></div>
       </div>
     </div>
+ </section>
+</section>
 @endsection
