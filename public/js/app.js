@@ -47,7 +47,7 @@ $.getJSON('js/data.json', function (data) {
         },
         yAxis: {
             title: {
-                text: 'Sales'
+                text: 'Onboarding percentage'
             }
         },
         series: [{
