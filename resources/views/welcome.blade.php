@@ -5,7 +5,7 @@
     <div class="row visible-lg">
       <div class="content">
           <div class="title m-b-md">
-              <h1>Temper Onboarding</h1>
+              <h1>Temper</h1>
           </div>
           <div id="container" style="width:100%; height:400px;"></div>
       </div>
